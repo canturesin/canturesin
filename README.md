@@ -1,8 +1,13 @@
-### Hi there 👋
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=canturesin&show_icons=true">
 
-![](https://komarev.com/ghpvc/?username=canturesin&color=red)
+### Hi there, I'm Can Türesin👋 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=canturesin&color=red" alt="canturesin" /> </p>
+
+[![](https://img.shields.io/github/followers/canturesin?style=social)](https://www.github.com/canturesin)
 
 
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/canturesin/)
+[![Mail Badge](https://img.shields.io/badge/canturesin@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:canturesin@gmail.com)](mailto:canturesin@gmail.com)
 
 
 <!--

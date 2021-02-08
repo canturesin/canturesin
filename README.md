@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=canturesin)
+![](https://komarev.com/ghpvc/?username=canturesin&color=red)
+
+
+
 
 <!--
 **canturesin/canturesin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

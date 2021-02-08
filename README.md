@@ -9,10 +9,8 @@ I'm  MSc student in Cryptography at Middle East Technical University, working at
 
 ### Contact with me via:
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/canturesin/)
-![Metu_Mail can.turesin@metu.edu.tr](https://img.shields.io/badge/Metu_Mail-can.turesin@metu.edu.tr-red.svg)
 [![Mail Badge](https://img.shields.io/badge/canturesin@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:canturesin@gmail.com)]
 (mailto:canturesin@gmail.com)
-
 
 <!--
 **canturesin/canturesin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

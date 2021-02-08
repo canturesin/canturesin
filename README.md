@@ -1,7 +1,7 @@
 
 ### Hi there, I'm Can Türesin👋 
 
-I'm  MSc student in Cryptography at Middle East Technical University, working at FAME CRYPT as researcher since 2018. I have an interest on cryptanalysis and studying on cryptanalysis using automated tools. 
+I'm  MSc student in Cryptography at Middle East Technical University, working at Fame Crypt as a researcher since 2018. I have a growing interest to cryptanalysis and have been studying on cryptanalysis using automated tools. I'm going to upload my implementations here as I will make a progress related to this topic.
 
 <img src="https://komarev.com/ghpvc/?username=canturesin&color=red" alt="canturesin" /> </p>
 
